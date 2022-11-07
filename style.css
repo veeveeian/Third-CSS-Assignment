@@ -1,0 +1,42 @@
+body{
+    background-color: #d4d3d3;
+}
+div{
+ box-shadow:  10px 10px 5px #cac7c7;
+ width: 90%;
+ text-align: center;
+ margin: auto;
+ background-color: white;
+ margin-top: 20px;
+ font:16px/26px Georgia, Garamond, Serif;
+}
+#navbar{
+    text-align: justify;
+    box-shadow: none;
+    height:700px;
+    width:800px;
+    border:1px solid #ccc;
+    font:16px/26px Georgia, Garamond, Serif;
+    overflow: auto;
+    transition: top 0.3s;
+}
+.h1{
+    padding-top: 50px;
+}
+header{
+    width: 100%;
+    padding: 15px;
+    background-color: rgb(24, 22, 22);
+}
+nav{
+    width: 80%;
+    margin: 0 auto;
+    color: white;
+}
+li{
+    display: inline;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+}
